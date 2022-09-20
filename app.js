@@ -1,1 +1,1 @@
-console.log("rodado o sistema "),
+console.log("rodado o sistema ")
