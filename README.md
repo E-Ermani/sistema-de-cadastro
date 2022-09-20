@@ -4,5 +4,5 @@
 
 para rodar esse projeto na máquina, por favor execute:
 ...
-npm install
+node app.js
 ...
